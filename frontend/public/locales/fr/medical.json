@@ -390,7 +390,10 @@
     "vaccineName": {
       "description": "Nom du vaccin administré",
       "label": "Nom du vaccin",
-      "placeholder": "ex : COVID-19 à ARN messager, Grippe, ROR"
+      "placeholder": "ex : COVID-19 à ARN messager, Grippe, ROR",
+      "searchPlaceholder": "Tapez pour rechercher des vaccins...",
+      "combinedHint": "Vaccin combiné — composants : {{components}}",
+      "matchedCommonName": "correspondance : {{name}}"
     }
   },
   "injuries": {
@@ -1415,7 +1418,7 @@
         }
       },
       "locationOptions": {
-      "clinic": "Clinique",
+        "clinic": "Clinique",
         "doctorsOffice": "Cabinet du docteur",
         "emergencyRoom": "Service d'accueil des urgences",
         "homeVisit": "Visite à domicile",

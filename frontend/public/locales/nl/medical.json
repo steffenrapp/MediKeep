@@ -390,7 +390,10 @@
     "vaccineName": {
       "description": "Naam van het toegediende vaccin",
       "label": "Vaccinnaam",
-      "placeholder": "bv. COVID-19 mRNA, Influenza, BMR"
+      "placeholder": "bv. COVID-19 mRNA, Influenza, BMR",
+      "searchPlaceholder": "Typ om vaccins te zoeken...",
+      "combinedHint": "Gecombineerd vaccin — componenten: {{components}}",
+      "matchedCommonName": "gevonden: {{name}}"
     }
   },
   "injuries": {
