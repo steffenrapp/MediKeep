@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "lastUpdated": "2026-05-15",
+  "version": "1.2.0",
+  "lastUpdated": "2026-05-16",
   "_source": "WHO PreQualVaccineType FHIR CodeSystem (https://smart.who.int/pcmt-vaxprequal/CodeSystem-PreQualVaccineType.html) plus curated entries for common US/Western vaccines not in WHO PCMT (Tdap booster, Shingles, MMRV, Twinrix, etc.).",
   "vaccines": [
     {
